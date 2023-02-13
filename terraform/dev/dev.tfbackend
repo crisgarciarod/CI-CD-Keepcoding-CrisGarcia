@@ -1,0 +1,3 @@
+bucket = "bucket-acme-tfstate"
+key    = "dev/s3-state"
+region = "eu-west-1"
